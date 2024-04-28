@@ -1,7 +1,6 @@
 package concert_management;
 
 public class Concert {
-    
     private String singer;
     private String date;
     private String place;
